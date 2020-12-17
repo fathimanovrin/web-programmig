@@ -15,6 +15,7 @@
  6.pull the changes that i have made in my remote repo to local repo
  7.for creating ssh key first check there is an existing ssh key.after checking,generate a new sssh key to use for authenticatio,then add to ssh agent
  8.make changes to my local repo and push to remote repo
+ 9.
  
  
   
