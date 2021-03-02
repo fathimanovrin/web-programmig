@@ -1,0 +1,18 @@
+h3 
+{ 
+ text-align: center; 
+ background-color: rgb(255, 0, 0); 
+ box-sizing: border-box; 
+ font-size: 30px; 
+ color: rgb(0, 21, 139); 
+} 
+p{ 
+ text-align:center; 
+ color: black; 
+ font-size: 18px; 
+ font-family: Verdana, Geneva, Tahoma, sans-serif; 
+ background-color: cyan; 
+}
+a{ 
+ color:rgb(206, 193, 200); 
+} 
